@@ -1,0 +1,45 @@
+body{ 
+    background:#f4e3cf; 
+    font-family: arial;
+}
+
+.encabezado{ 
+    background:#e8d2b8; 
+    color:#1f4d3b;
+}
+
+.menu{ 
+    background:#2c7a6b; 
+    color:white;
+}
+
+.presentacion{ 
+    background:#f1dcc4; 
+    padding:10px; border-radius:8px; 
+}
+
+.info{ 
+    background:#b9d89c;
+    border-radius:10px;
+}
+
+.cajita{
+    background:white;
+}
+
+.parte{
+    background:#2c7a6b; 
+    color:white; 
+    padding:8px; margin-bottom:5px; 
+    border-radius:8px; 
+}
+
+.texto{ 
+    background:#cfe5ec; 
+    padding:8px; border-radius:8px; 
+}
+
+.final{ ç
+    background:#cfe5ec;
+    border-radius:10px;
+}
